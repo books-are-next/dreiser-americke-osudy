@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Americké osudy</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sv. Columba a řeka</text>
+      </navLabel>
+      <content src="Text/americke_osudy_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Dříči v činžácích</text>
+      </navLabel>
+      <content src="Text/americke_osudy_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Ústraní vyřazených</text>
+      </navLabel>
+      <content src="Text/americke_osudy_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Útočiště</text>
+      </navLabel>
+      <content src="Text/americke_osudy_008.xhtml#_idParaDest-4"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/americke_osudy_008.xhtml#_idParaDest-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Na okraji života</text>
+      </navLabel>
+      <content src="Text/americke_osudy_009.xhtml#_idParaDest-13"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Muži ve tmě</text>
+        </navLabel>
+        <content src="Text/americke_osudy_009.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Muži v bouři</text>
+        </navLabel>
+        <content src="Text/americke_osudy_009.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Muži ve sněhu</text>
+        </navLabel>
+        <content src="Text/americke_osudy_009.xhtml#_idParaDest-16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Přízrak zlata</text>
+      </navLabel>
+      <content src="Text/americke_osudy_010.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Půjdete na chvíli ke mně?</text>
+      </navLabel>
+      <content src="Text/americke_osudy_011.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>De Maupassant mladší</text>
+      </navLabel>
+      <content src="Text/americke_osudy_012.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Písničkáři</text>
+      </navLabel>
+      <content src="Text/americke_osudy_013.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Princ zlodějem</text>
+      </navLabel>
+      <content src="Text/americke_osudy_014.xhtml#_idParaDest-21"/>
+    </navPoint>
+  </navMap>
+</ncx>
