@@ -1,0 +1,355 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Americké osudy",
+  "author": "Theodore Dreiser",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dreiser-americke-osudy-14eade8",
+  "revision": "14eade8",
+  "readingOrder": [
+    "promo.html",
+    "americke_osudy_005.html",
+    "americke_osudy_006.html",
+    "americke_osudy_007.html",
+    "americke_osudy_008.html",
+    "americke_osudy_009.html",
+    "americke_osudy_010.html",
+    "americke_osudy_011.html",
+    "americke_osudy_012.html",
+    "americke_osudy_013.html",
+    "americke_osudy_014.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 30 2022 10:45:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661856300651
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "americke_osudy_005.html",
+      "toc": []
+    },
+    {
+      "title": "Sv. Columba a řeka",
+      "file": "americke_osudy_005.html",
+      "words": 10543,
+      "chars": 62276,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "americke_osudy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sv. Columba a řeka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dříči v činžácích",
+      "file": "americke_osudy_006.html",
+      "words": 3532,
+      "chars": 21425,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 2,
+      "prev": "americke_osudy_005.html",
+      "next": "americke_osudy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dříči v činžácích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ústraní vyřazených",
+      "file": "americke_osudy_007.html",
+      "words": 2659,
+      "chars": 16116,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 3,
+      "prev": "americke_osudy_006.html",
+      "next": "americke_osudy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ústraní vyřazených",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Útočiště",
+      "file": "americke_osudy_008.html",
+      "words": 10263,
+      "chars": 61109,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 4,
+      "prev": "americke_osudy_007.html",
+      "next": "americke_osudy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Útočiště",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI",
+              "id": "vi",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII",
+              "id": "vii",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "VIII",
+              "id": "viii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Na okraji života",
+      "file": "americke_osudy_009.html",
+      "words": 3098,
+      "chars": 18194,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 5,
+      "prev": "americke_osudy_008.html",
+      "next": "americke_osudy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na okraji života",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Muži ve tmě",
+              "id": "muži-venbsptmě",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Muži v bouři",
+              "id": "muži-vbouři",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Muži ve sněhu",
+              "id": "muži-venbspsněhu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Přízrak zlata",
+      "file": "americke_osudy_010.html",
+      "words": 12052,
+      "chars": 70169,
+      "ideas": 220,
+      "role": "chapter",
+      "order": 6,
+      "prev": "americke_osudy_009.html",
+      "next": "americke_osudy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízrak zlata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Půjdete na chvíli ke mně?",
+      "file": "americke_osudy_011.html",
+      "words": 18933,
+      "chars": 108235,
+      "ideas": 268,
+      "role": "chapter",
+      "order": 7,
+      "prev": "americke_osudy_010.html",
+      "next": "americke_osudy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Půjdete na chvíli ke mně?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "De Maupassant mladší",
+      "file": "americke_osudy_012.html",
+      "words": 10955,
+      "chars": 65822,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 8,
+      "prev": "americke_osudy_011.html",
+      "next": "americke_osudy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "De Maupassant mladší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písničkáři",
+      "file": "americke_osudy_013.html",
+      "words": 4436,
+      "chars": 26995,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 9,
+      "prev": "americke_osudy_012.html",
+      "next": "americke_osudy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Písničkáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Princ zlodějem",
+      "file": "americke_osudy_014.html",
+      "words": 10741,
+      "chars": 63407,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 10,
+      "prev": "americke_osudy_013.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Princ zlodějem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 152,
+      "chars": 988,
+      "ideas": 20,
+      "role": "about",
+      "order": null,
+      "prev": "americke_osudy_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 87369,
+      "chars": 514769,
+      "ideas": 1323
+    },
+    "chapters": {
+      "words": 87212,
+      "chars": 513748,
+      "ideas": 1300
+    }
+  }
+}
