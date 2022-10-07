@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dreiser-americke-osudy-71919e2",
-  "revision": "71919e2",
+  "identifier": "dreiser-americke-osudy-2e84b50",
+  "revision": "2e84b50",
   "readingOrder": [
     "promo.html",
     "americke_osudy_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:50:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923837077
+    "date": "Fri Oct 07 2022 13:49:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150579750
   },
   "documents": [
     {
