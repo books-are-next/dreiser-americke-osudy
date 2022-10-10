@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dreiser-americke-osudy-2e84b50",
-  "revision": "2e84b50",
+  "identifier": "dreiser-americke-osudy-4e80933",
+  "revision": "4e80933",
   "readingOrder": [
     "promo.html",
     "americke_osudy_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:49:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150579750
+    "date": "Mon Oct 10 2022 15:42:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416545549
   },
   "documents": [
     {
@@ -323,7 +323,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 149,
-      "chars": 988,
+      "chars": 989,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -343,7 +343,7 @@
   "totals": {
     "all": {
       "words": 87366,
-      "chars": 514769,
+      "chars": 514770,
       "ideas": 1320
     },
     "chapters": {
