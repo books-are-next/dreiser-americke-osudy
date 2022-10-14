@@ -5,10 +5,11 @@
   "title": "Americké osudy",
   "author": "Theodore Dreiser",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dreiser-americke-osudy-4e80933",
-  "revision": "4e80933",
+  "identifier": "dreiser-americke-osudy-22668f9",
+  "revision": "22668f9",
   "readingOrder": [
     "promo.html",
     "americke_osudy_005.html",
@@ -24,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:42:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416545549
+    "date": "Fri Oct 14 2022 18:34:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665772471142
   },
   "documents": [
     {
@@ -342,9 +343,9 @@
   ],
   "totals": {
     "all": {
-      "words": 87366,
-      "chars": 514770,
-      "ideas": 1320
+      "words": 87367,
+      "chars": 514778,
+      "ideas": 1321
     },
     "chapters": {
       "words": 87212,

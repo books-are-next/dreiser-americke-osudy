@@ -10,9 +10,10 @@ meta:
   author: Theodore Dreiser
   publisher: Městská knihovna v Praze
   modified: '2022-05-18T00:00:00.000Z'
-  isbn: 978-80-274-2388-0
+  isbn: 978-80-274-2806-9
   contentType: prose
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - americke_osudy_005.html
